@@ -1,0 +1,16 @@
+{
+  "name": "first_nodejs_module",
+  "version": "1.0.1",
+  "description": "first nodejs module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlienCao/first_nodejs_module.git"
+  },
+  "author": "sylar",
+  "license": "ISC",
+  "homepage": "https://github.com/AlienCao/first_nodejs_module#readme"
+}
